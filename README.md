@@ -11,6 +11,6 @@
 
 ## Current projects I am working on:
 - Optimizing [Deferred Renderer](https://github.com/pratik-dhende/Prime-Engine-Deferred-Renderer) created as a part of CSCI 522, Milestone 1.
+- Implementing Ray tracer using [BRDF](https://en.wikipedia.org/wiki/Bidirectional_reflectance_distribution_function) as a part of CSCI 420 course.
 - Implementing Volumentric Cloud Rendering using Ray Marching for the proprietary Prime Engine as a part of CSCI 522, Milestone 2.
-- Adding features to [Isekai](https://github.com/pratik-dhende/Isekai).
-- Implementing Ray tracer using [BRDF](https://en.wikipedia.org/wiki/Bidirectional_reflectance_distribution_function) based [Physically based rendering](https://en.wikipedia.org/wiki/Physically_based_rendering) as a part of CSCI 420 course.
+- Implementing DX11 Graphics Engine.
