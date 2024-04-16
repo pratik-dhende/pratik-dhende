@@ -14,8 +14,3 @@
 - Implementing Volumentric Cloud Rendering using Ray Marching for the proprietary Prime Engine as a part of CSCI 522, Milestone 2.
 - Adding features to [Isekai](https://github.com/pratik-dhende/Isekai).
 - Implementing Ray tracer using [BRDF](https://en.wikipedia.org/wiki/Bidirectional_reflectance_distribution_function) based [Physically based rendering](https://en.wikipedia.org/wiki/Physically_based_rendering) as a part of CSCI 420 course.
-
-## You can reach me out at:
-[<img src="https://github.com/favicon.ico" height="50">](https://github.com/pratik-dhende)
-[<img src="https://linkedin.com/favicon.ico" height="50">](https://www.linkedin.com/in/pratik-dhende/)
-[<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x.png" height="50">](mailto:dhende@usc.edu)
