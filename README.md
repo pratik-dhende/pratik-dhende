@@ -8,9 +8,3 @@
 🏆 I've showcased my coding prowess by securing the second position in a district-level competitive coding competition. Moreover, I earned a special mention award at a hackathon and have also actively participated in game jams.
 
 🤝 I'm always eager to connect with fellow professionals, share insights, and explore potential collaborations. Let's connect, discuss innovative ideas, and explore new opportunities together!
-
-## Current projects I am working on:
-- Optimizing [Deferred Renderer](https://github.com/pratik-dhende/Prime-Engine-Deferred-Renderer) created as a part of CSCI 522, Milestone 1.
-- Implementing Ray tracer using [BRDF](https://en.wikipedia.org/wiki/Bidirectional_reflectance_distribution_function) as a part of CSCI 420 course.
-- Implementing Volumentric Cloud Rendering using Ray Marching for the proprietary Prime Engine as a part of CSCI 522, Milestone 2.
-- Implementing DX11 Graphics Engine.
