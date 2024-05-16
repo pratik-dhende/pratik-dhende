@@ -1,13 +1,14 @@
 # Welcome! 🌟
 
 ## Background
-- Throughout my undergraduate studies, I dived into the fascinating worlds of Computer Science fields with a focus on Artificial Intelligence and Game Development. I've had a blast participating in hackathons, game jams, competitive coding competitions, personal projects, and research. 🚀
+- Throughout my undergraduate studies, I focused on Computer Science, specializing in Artificial Intelligence and Game Development. I actively participated in hackathons, game jams, coding competitions, personal projects, and research. 🚀
 
-- In my professional journey, I've worked as a Software Engineer, Software Engineer Intern, and Game Developer Intern. Each role has been a fantastic opportunity to grow and learn in real-world environments. 💼
+- Professionally, I've worked as a Software Engineer, Software Engineer Intern, and Game Developer Intern, gaining valuable real-world experience and knowledge. 💼
 
 ## Current pursuits
-- As I embark on my Master's degree, I've found myself drawn to the captivating realm of Computer Graphics. It's a field I'm eagerly mastering through graduate-level coursework and personal projects. 🎓
-- Throughout my Computer Science exploration, I've discovered my passions, which include:
+- Embarking on my Master's degree, I've been captivated by Computer Graphics. Through graduate-level coursework and personal projects, I'm eagerly mastering this field. 🎓
+
+- In my exploration of Computer Science, I've discovered my passions, including:
   - Computer Graphics
   - Game Programming
   - Game Development
@@ -17,10 +18,11 @@
 
 Feel free to delve deeper into my journey, experiences, and everything I've mentioned in my background and current pursuits through my [LinkedIn](https://www.linkedin.com/in/pratik-dhende/) profile. 🌐
 
-Thanks for stopping by, and I hope you enjoy exploring my GitHub portfolio! 👋
+Thanks for stopping by, and I hope you enjoy exploring my portfolio! 👋
 
 ## Projects
 ### Computer Graphics
+
 - [Deferred Renderer](https://github.com/pratik-dhende/Prime-Engine-Deferred-Renderer)
 - [Real-Time Procedural Terrain Rendering using Ray Marching](https://github.com/pratik-dhende/Real-Time-Procedural-Terrain-Rendering-using-Ray-Marching)
 - [Unity Bezier Spline based Path Editor](https://github.com/pratik-dhende/Path-Editor)
@@ -60,6 +62,7 @@ Thanks for stopping by, and I hope you enjoy exploring my GitHub portfolio! 👋
 
 ## Connect
 I'm always eager to connect with fellow professionals, share insights, and explore potential collaborations. Let's connect, discuss innovative ideas, and explore new opportunities together!
-<p align="left"><a href="https://www.linkedin.com/in/pratik-dhende/" align="centre"><img src="https://github.com/pratik-dhende/pratik-dhende/assets/55596801/2d48e427-dc9d-4ab8-8249-70c8acd483db" alt="LinkedIn Logo" width="50" height="50"></a>                <a href="mailto:dhende@usc.edu"><img src="https://github.com/pratik-dhende/pratik-dhende/assets/55596801/889dbc00-c662-4c1d-b458-11e33c9a700b" alt="GMail Logo" width="50" height="50"></a></p>
-
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/pratik-dhende/" align="centre"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo"></a>
+  <a href="mailto:dhende@usc.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Logo"></a>
+</div>
