@@ -62,7 +62,7 @@ Thanks for stopping by, and I hope you enjoy exploring my portfolio! 👋
 
 ## Connect
 I'm always eager to connect with fellow professionals, share insights, and explore potential collaborations. Let's connect, discuss innovative ideas, and explore new opportunities together!
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/pratik-dhende/" align="centre"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo"></a>
   <a href="mailto:dhende@usc.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Logo"></a>
 </div>
