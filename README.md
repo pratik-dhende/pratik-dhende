@@ -3,11 +3,11 @@
 ## Background
 - Throughout my undergraduate studies, I dived into the fascinating worlds of Computer Science fields with a focus on Artificial Intelligence and Game Development. I've had a blast participating in hackathons, game jams, competitive coding competitions, personal projects, and research. 🚀
 
-- In my professional journey, I've worked as a Software Engineer, Software Engineer Intern and Game Developer Intern. Each role has been a fantastic opportunity to grow and learn in real-world environments. 💼
+- In my professional journey, I've worked as a Software Engineer, Software Engineer Intern, and Game Developer Intern. Each role has been a fantastic opportunity to grow and learn in real-world environments. 💼
 
 ## Current pursuits
-- As I embark on my Master's degree, I've found myself drawn to the captivating realm of Computer Graphics. It's a field I'm eagerly mastering through courseworks and personal projects. 🎨
-- Throughout my exploration, I've discovered my passions, which include:
+- As I embark on my Master's degree, I've found myself drawn to the captivating realm of Computer Graphics. It's a field I'm eagerly mastering through graduate-level coursework and personal projects. 🎓
+- Throughout my Computer Science exploration, I've discovered my passions, which include:
   - Computer Graphics
   - Game Programming
   - Game Development
@@ -15,9 +15,9 @@
   - Software Engineering
   - Data Structures and Algorithms
 
-Feel free to delve deeper into my journey, experiences, and everything I've mentioned in my background and current pursuits throught my [LinkedIn](https://www.linkedin.com/in/pratik-dhende/) profile. 
+Feel free to delve deeper into my journey, experiences, and everything I've mentioned in my background and current pursuits through my [LinkedIn](https://www.linkedin.com/in/pratik-dhende/) profile. 🌐
 
-Thanks for stopping by, and I hope you enjoy exploring my GitHub portoflio! 👋
+Thanks for stopping by, and I hope you enjoy exploring my GitHub portfolio! 👋
 
 ## Projects
 ### Computer Graphics
@@ -33,7 +33,7 @@ Thanks for stopping by, and I hope you enjoy exploring my GitHub portoflio! 👋
 - [Full body, Partial and Additive Animation Blending System](https://github.com/pratik-dhende/Prime-Engine-Animation-Blending)
 
 ### Game Development
-- [Out of Control - Text based Interactive Puzzle Game - GMTK Game Jam 2020 submission](https://github.com/pratik-dhende/Out-of-control)
+- [Out of Control - Text-based Interactive Puzzle Game - GMTK Game Jam 2020 submission](https://github.com/pratik-dhende/Out-of-control)
 - [Soulynoyds into Magniverse - Top Down Puzzle Game - BYOG 2021 Game Jam submission](https://krithin.itch.io/soulnoyds-into-the-magniverse)
 
 ### Artificial Intelligence
