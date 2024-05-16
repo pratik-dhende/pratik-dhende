@@ -1,4 +1,5 @@
 # Portfolio
+Hey there, my name is Pratik Dilip Dhende, a current Master's in Computer Science student at the University of Southern California's Viterbi School of Engineering.
 
 ## Background
 - Throughout my undergraduate studies, I focused on Computer Science, specializing in Artificial Intelligence and Game Development. I actively participated in hackathons, game jams, coding competitions, personal projects, and research. 🚀
