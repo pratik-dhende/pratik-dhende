@@ -1,4 +1,4 @@
-# Welcome! 🌟
+# Portfolio
 
 ## Background
 - Throughout my undergraduate studies, I focused on Computer Science, specializing in Artificial Intelligence and Game Development. I actively participated in hackathons, game jams, coding competitions, personal projects, and research. 🚀
