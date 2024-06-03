@@ -22,8 +22,11 @@ Feel free to delve deeper into my journey, experiences, and everything I've ment
 Thanks for stopping by, and I hope you enjoy exploring my portfolio! 👋
 
 ## Projects
-### Computer Graphics
+### Work in Progress
+- [DirectX12 Graphics Engine](https://github.com/pratik-dhende/Yume)
+- [Win32 Programming](https://github.com/pratik-dhende/Win32)
 
+### Computer Graphics
 - [Deferred Renderer](https://github.com/pratik-dhende/Prime-Engine-Deferred-Renderer)
 - [Real-Time Procedural Terrain Rendering using Ray Marching](https://github.com/pratik-dhende/Real-Time-Procedural-Terrain-Rendering-using-Ray-Marching)
 - [Unity Bezier Spline based Path Editor](https://github.com/pratik-dhende/Path-Editor)
