@@ -1,13 +1,13 @@
 # Portfolio
-Hey there, my name is `Pratik Dilip Dhende`, a current `Master's in Computer Science` student at the `University of Southern California's Viterbi School of Engineering`.
+Hey there, my name is Pratik Dilip Dhende, a current Master's in Computer Science student at the University of Southern California's Viterbi School of Engineering.
 
 ## Background
-- Throughout my undergraduate studies, I focused on Computer Science, specializing in `Artificial Intelligence` and `Game Development`. I actively participated in hackathons, game jams, coding competitions, personal projects, and research. 🚀
+- Throughout my undergraduate studies, I focused on Computer Science, specializing in Artificial Intelligence and Game Development. I actively participated in hackathons, game jams, coding competitions, personal projects, and research. 🚀
 
-- Professionally, I've worked as a `Software Engineer`, `Software Engineer Intern`, and `Game Developer Intern`, gaining valuable real-world experience and knowledge. 💼
+- Professionally, I've worked as a Software Engineer, Software Engineer Intern, and Game Developer Intern, gaining valuable real-world experience and knowledge. 💼
 
 ## Current pursuits
-- Embarking on my Master's degree, I've been captivated by `Computer Graphics`. Through graduate-level coursework and personal projects, I'm specializing in this field. 🎓
+- Embarking on my Master's degree, I've been captivated by Computer Graphics. Through graduate-level coursework and personal projects, I'm specializing in this field. 🎓
 
 - In my exploration of Computer Science, I've discovered my passions, including:
   - Computer Graphics
