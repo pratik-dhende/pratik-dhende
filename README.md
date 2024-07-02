@@ -25,6 +25,7 @@ Thanks for stopping by, and I hope you enjoy exploring my portfolio! 👋
 ### Computer Graphics
 - [Deferred Renderer](https://github.com/pratik-dhende/Prime-Engine-Deferred-Renderer)
 - [Real-Time Procedural Terrain Rendering using Ray Marching](https://github.com/pratik-dhende/Real-Time-Procedural-Terrain-Rendering-using-Ray-Marching)
+- [Monte-Carlo sampling based BRDF CPU Ray Tracer](https://github.com/pratik-dhende/Ray-Tracer)
 - [Unity Bezier Spline based Path Editor](https://github.com/pratik-dhende/Path-Editor)
 - [Bresenham's Line Algorithm Shader](https://github.com/pratik-dhende/Bresenham-Line-Algorithm-Demo)
 - [Unity Mandelbrot Explorer Shader](https://github.com/pratik-dhende/Mandelbrot-Explorer)
