@@ -1,13 +1,13 @@
 # Portfolio
-Hey there, my name is Pratik Dilip Dhende, a current Master's in Computer Science student at the University of Southern California's Viterbi School of Engineering.
+Hey there, my name is `Pratik Dilip Dhende`, a current `Master's in Computer Science` student at the `University of Southern California's Viterbi School of Engineering`.
 
 ## Background
-- Throughout my undergraduate studies, I focused on Computer Science, specializing in Artificial Intelligence and Game Development. I actively participated in hackathons, game jams, coding competitions, personal projects, and research. 🚀
+- Throughout my undergraduate studies, I focused on Computer Science, specializing in `Artificial Intelligence` and `Game Development`. I actively participated in hackathons, game jams, coding competitions, personal projects, and research. 🚀
 
-- Professionally, I've worked as a Software Engineer, Software Engineer Intern, and Game Developer Intern, gaining valuable real-world experience and knowledge. 💼
+- Professionally, I've worked as a `Software Engineer`, `Software Engineer Intern`, and `Game Developer Intern`, gaining valuable real-world experience and knowledge. 💼
 
 ## Current pursuits
-- Embarking on my Master's degree, I've been captivated by Computer Graphics. Through graduate-level coursework and personal projects, I'm eagerly mastering this field. 🎓
+- Embarking on my Master's degree, I've been captivated by `Computer Graphics`. Through graduate-level coursework and personal projects, I'm specializing in this field. 🎓
 
 - In my exploration of Computer Science, I've discovered my passions, including:
   - Computer Graphics
@@ -22,6 +22,9 @@ Feel free to delve deeper into my journey, experiences, and everything I've ment
 Thanks for stopping by, and I hope you enjoy exploring my portfolio! 👋
 
 ## Projects
+### Work In Progress
+- [Yume - DX12 Graphics Engine](https://github.com/pratik-dhende/Yume)
+
 ### Computer Graphics
 - [Deferred Renderer](https://github.com/pratik-dhende/Prime-Engine-Deferred-Renderer)
 - [Real-Time Procedural Terrain Rendering using Ray Marching](https://github.com/pratik-dhende/Real-Time-Procedural-Terrain-Rendering-using-Ray-Marching)
@@ -56,6 +59,7 @@ Thanks for stopping by, and I hope you enjoy exploring my portfolio! 👋
 | Shader languages | GLSL • HLSL |
 | GPU Profilers | RenderDoc |
 | Game Engines | Unity |
+| Meta Build System | CMake • Premake|
 | Programming Languages | C++ • C# • Python • Objective-C • Swift • Javascript • HTML • CSS • Shell script|
 | Frameworks/Libraries | Unity CLI • React • React Native • Flutter • fastlane • Jenkins |
 | IDEs | XCode • Visual Studio |
