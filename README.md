@@ -9,20 +9,20 @@
 
 ## Education
 ### University of Southern California
-**Master of Science in Computer Science** 
+**Master of Science in Computer Science - `CGPA: 4.0/4.0`**
+> 
+> **Relevant Coursework**: <br>
+> - Analysis of Algorithms
+> - Database Systems
+> - Game Engine Development
+> - Computer Graphics
+> - Multimedia Systems Design
+> - Computer Systems Architecture
 
-**Relevant Coursework - `CGPA: 4.0/4.0`**
-```
-• Analysis of Algorithms
-• Database Systems
-• Game Engine Development
-• Computer Graphics 
-• Multimedia Systems Design
-• Computer Systems Architecture
-```
+
 
 ### Pimpri Chinchwad College of Engineering (Affiliated to Savitribai Phule Pune University)
-**Bachelor of Engineering in Computer Engineering - `CGPA: 9.44/10.0`** 
+**Bachelor of Engineering in Computer Engineering - `CGPA: 9.44/10.0`**
 
 ## Work Experience
 ### PubMatic
