@@ -30,6 +30,7 @@ Thanks for stopping by, and I hope you enjoy exploring my portfolio! 👋
 - [Isekai - DirectX11 Graphics Engine](https://github.com/pratik-dhende/Isekai)
 - [Real-Time Procedural Terrain Rendering using Ray Marching](https://github.com/pratik-dhende/Real-Time-Procedural-Terrain-Rendering-using-Ray-Marching)
 - [Monte-Carlo sampling based BRDF CPU Ray Tracer](https://github.com/pratik-dhende/Ray-Tracer)
+- [Height Fields - OpenGL](https://github.com/pratik-dhende/Height-Fields)
 - [Unity Bezier Spline based Path Editor](https://github.com/pratik-dhende/Path-Editor)
 - [Bresenham's Line Algorithm Shader](https://github.com/pratik-dhende/Bresenham-Line-Algorithm-Demo)
 - [Unity Mandelbrot Explorer Shader](https://github.com/pratik-dhende/Mandelbrot-Explorer)
