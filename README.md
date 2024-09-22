@@ -25,41 +25,42 @@
 **Bachelor of Engineering in Computer Engineering - `CGPA: 9.44/10.0`** 
 
 ## Work Experience
-- **PubMatic**
+### PubMatic
 
-  - <details>
-    <summary><strong>Software Engineer</strong> (July 2022 – June 2023)</summary>
-    
-    <ul>
-      <li>Integrated SKAdNetwork 4.0 into the iOS SDK, expanding demand-side partnerships</li>
-      <li>Executed iOS Native ad measurement using Open Measurement SDK 1.4.7 to bolster publisher trust and reliability</li>
-      <li>Elevated iOS SDK code coverage by 4%, advancing team agile maturity to level 3, within a 13,000+ line codebase</li>
-      <li>Maximized ad revenue by implementing the design of an End Card ad</li>
-      <li>Revamped and developed iOS, Unity, and React Native apps for efficient QA testing of upcoming features</li>
-      <li>Automated CI/CD for Unity and React Native plugins, as well as iOS and React Native app releases using scripted shell commands, XCode CLI, Unity CLI, React Native CLI, Node.js, and Jenkins</li>
-    </ul>
-  </details>
+> <details>
+>   <summary><strong>Software Engineer</strong> (July 2022 – June 2023)</summary><br>
+> 
+>   <ul>
+>     <li>Integrated SKAdNetwork 4.0 into the iOS SDK, expanding demand-side partnerships</li>
+>     <li>Executed iOS Native ad measurement using Open Measurement SDK 1.4.7 to bolster publisher trust and reliability</li>
+>     <li>Elevated iOS SDK code coverage by 4%, advancing team agile maturity to level 3, within a 13,000+ line codebase</li>
+>     <li>Maximized ad revenue by implementing the design of an End Card ad</li>
+>     <li>Revamped and developed iOS, Unity, and React Native apps for efficient QA testing of upcoming features</li>
+>     <li>Automated CI/CD for Unity and React Native plugins, as well as iOS and React Native app releases using scripted shell commands, XCode CLI, Unity CLI, React Native CLI, Node.js, and Jenkins</li>
+>   </ul>
+> </details>
+> 
+> <details>
+>   <summary><strong>Software Engineer Intern</strong> (May 2022 – June 2022)</summary><br>
+>   
+>   <ul>
+>     <li>Automated iOS device dimension retrieval to analyze adaptive ad sizes across devices, reducing testing time by 50%</li>
+>     <li>Gained iOS expertise through crafting a full-stack app utilizing YouTube APIs for data retrieval with Objective C</li>
+>     <li>Mastered programmatic advertising standards, enhancing ad industry protocol comprehension</li>
+>   </ul>
+> </details>
 
-  - <details>
-    <summary><strong>Software Engineer Intern</strong> (May 2022 – June 2022)</summary>
-    
-    <ul>
-      <li>Automated iOS device dimension retrieval to analyze adaptive ad sizes across devices, reducing testing time by 50%</li>
-      <li>Gained iOS expertise through crafting a full-stack app utilizing YouTube APIs for data retrieval with Objective C</li>
-      <li>Mastered programmatic advertising standards, enhancing ad industry protocol comprehension</li>
-    </ul>
-  </details>
+### K12 Techno Services
+> <details>
+>   <summary><strong>Game Developer Intern</strong> (September 2021 – November 2021)</summary>
+>   
+>   <ul>
+>     <li>Engineered a "Grass Cut" Play Store app replica in Unity, gaining proficiency in Model-View-Controller architecture</li>
+>     <li>Created a Unity Timer App for a client, facilitating intuitive teaching of time concepts to students</li>
+>     <li>Enhanced Unity game app for scalability and optimized game mechanics, resulting in a 50% increase in Play Store downloads</li>
+>   </ul>
+> </details>
 
-- **K12 Techno Services**
-  - <details>
-    <summary><strong>Game Developer Intern</strong> (September 2021 – November 2021)</summary>
-    
-    <ul>
-      <li>Engineered a "Grass Cut" Play Store app replica in Unity, gaining proficiency in Model-View-Controller architecture</li>
-      <li>Created a Unity Timer App for a client, facilitating intuitive teaching of time concepts to students</li>
-      <li>Enhanced Unity game app for scalability and optimized game mechanics, resulting in a 50% increase in Play Store downloads</li>
-    </ul>
-  </details>
 
 Feel free to delve deeper into my journey, experiences, and everything I've mentioned above through my [LinkedIn](https://www.linkedin.com/in/pratik-dhende/) profile. 🌐
 
