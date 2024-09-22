@@ -1,25 +1,67 @@
 # Portfolio
-Hey there, my name is Pratik Dilip Dhende, a current Master's in Computer Science student at the University of Southern California's Viterbi School of Engineering.
 
-## Background
-- Throughout my undergraduate studies, I focused on Computer Science, specializing in Artificial Intelligence and Game Development. I actively participated in hackathons, game jams, coding competitions, personal projects, and research. 🚀
+- Currently pursuing a `Master's degree` with a `specialization in Computer Graphics`, with a `strong background in Software Engineering, Game Development, Artificial Intelligence and Data Structures and Algorithms`.
 
-- Professionally, I've worked as a Software Engineer, Software Engineer Intern, and Game Developer Intern, gaining valuable real-world experience and knowledge. 💼
+- Notable achievement include:
+  - Publishing an [IEEE paper](https://ieeexplore.ieee.org/document/10010733) in the field of AI
+  - Second place in a district-level coding competition
+  - Special mention award at a hackathon
 
-## Current pursuits
-- Embarking on my Master's degree, I've been captivated by Computer Graphics. Through graduate-level coursework and personal projects, I'm specializing in this field. 🎓
+## Education
+### University of Southern California
+**Master of Science in Computer Science** 
 
-- In my exploration of Computer Science, I've discovered my passions, including:
-  - Computer Graphics
-  - Game Programming
-  - Game Development
-  - Artificial Intelligence
-  - Software Engineering
-  - Data Structures and Algorithms
+**Relevant Coursework - `CGPA: 4.0/4.0`**
+```
+• Analysis of Algorithms
+• Database Systems
+• Game Engine Development
+• Computer Graphics 
+• Multimedia Systems Design
+• Computer Systems Architecture
+```
 
-Feel free to delve deeper into my journey, experiences, and everything I've mentioned in my background and current pursuits through my [LinkedIn](https://www.linkedin.com/in/pratik-dhende/) profile. 🌐
+### Pimpri Chinchwad College of Engineering (Affiliated to Savitribai Phule Pune University)
+**Bachelor of Engineering in Computer Engineering - `CGPA: 9.44/10.0`** 
 
-Thanks for stopping by, and I hope you enjoy exploring my portfolio! 👋
+## Work Experience
+- **PubMatic**
+
+  - <details>
+    <summary><strong>Software Engineer</strong> (July 2022 – June 2023)</summary>
+    
+    <ul>
+      <li>Integrated SKAdNetwork 4.0 into the iOS SDK, expanding demand-side partnerships</li>
+      <li>Executed iOS Native ad measurement using Open Measurement SDK 1.4.7 to bolster publisher trust and reliability</li>
+      <li>Elevated iOS SDK code coverage by 4%, advancing team agile maturity to level 3, within a 13,000+ line codebase</li>
+      <li>Maximized ad revenue by implementing the design of an End Card ad</li>
+      <li>Revamped and developed iOS, Unity, and React Native apps for efficient QA testing of upcoming features</li>
+      <li>Automated CI/CD for Unity and React Native plugins, as well as iOS and React Native app releases using scripted shell commands, XCode CLI, Unity CLI, React Native CLI, Node.js, and Jenkins</li>
+    </ul>
+  </details>
+
+  - <details>
+    <summary><strong>Software Engineer Intern</strong> (May 2022 – June 2022)</summary>
+    
+    <ul>
+      <li>Automated iOS device dimension retrieval to analyze adaptive ad sizes across devices, reducing testing time by 50%</li>
+      <li>Gained iOS expertise through crafting a full-stack app utilizing YouTube APIs for data retrieval with Objective C</li>
+      <li>Mastered programmatic advertising standards, enhancing ad industry protocol comprehension</li>
+    </ul>
+  </details>
+
+- **K12 Techno Services**
+  - <details>
+    <summary><strong>Game Developer Intern</strong> (September 2021 – November 2021)</summary>
+    
+    <ul>
+      <li>Engineered a "Grass Cut" Play Store app replica in Unity, gaining proficiency in Model-View-Controller architecture</li>
+      <li>Created a Unity Timer App for a client, facilitating intuitive teaching of time concepts to students</li>
+      <li>Enhanced Unity game app for scalability and optimized game mechanics, resulting in a 50% increase in Play Store downloads</li>
+    </ul>
+  </details>
+
+Feel free to delve deeper into my journey, experiences, and everything I've mentioned above through my [LinkedIn](https://www.linkedin.com/in/pratik-dhende/) profile. 🌐
 
 ## Projects
 ### Work In Progress
@@ -56,10 +98,6 @@ Thanks for stopping by, and I hope you enjoy exploring my portfolio! 👋
 - [Custom Neural Network-based Breast Cancer Classifier](https://github.com/pratik-dhende/Breast-Cancer-Classifier)
 - [Evolutionaly Genetic Algorithm simulation](https://github.com/pratik-dhende/Shakespeare-Monkey-Problem)
 - [Tic Tac Toe AI](https://github.com/pratik-dhende/Tic-Tac-Toe-AI)
-  
-### Software Engineering
-- [Todo React Web App](https://github.com/pratik-dhende/todo-react)
-- [Codeforces Discord bot (fetches upcoming Codeforces contest data)](https://github.com/pratik-dhende/Codeforces-Discord-Bot)
 
 ## Skills
 | Skill | Technologies |
