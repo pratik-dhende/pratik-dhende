@@ -2,14 +2,14 @@
 
 - Currently pursuing a `Master's degree` with a `specialization in Computer Graphics`, with a `strong background in Software Engineering, Game Development, Artificial Intelligence and Data Structures and Algorithms`.
 
-- Notable achievement include:
+- Notable achievements include:
   - Publishing an [IEEE paper](https://ieeexplore.ieee.org/document/10010733) in the field of AI
   - Second place in a district-level coding competition
   - Special mention award at a hackathon
 
 ## Education
 ### University of Southern California
-**Master of Science in Computer Science - `CGPA: 4.0/4.0`**
+#### Master of Science in Computer Science - `CGPA: 4.0/4.0`
 > 
 > **Relevant Coursework**: <br>
 > - Analysis of Algorithms
@@ -22,7 +22,7 @@
 
 
 ### Pimpri Chinchwad College of Engineering (Affiliated to Savitribai Phule Pune University)
-**Bachelor of Engineering in Computer Engineering - `CGPA: 9.44/10.0`**
+#### Bachelor of Engineering in Computer Engineering - `CGPA: 9.44/10.0`
 
 ## Work Experience
 ### PubMatic
