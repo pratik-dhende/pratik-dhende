@@ -52,7 +52,7 @@
 
 ### K12 Techno Services
 > <details>
->   <summary><strong>Game Developer Intern</strong> (September 2021 – November 2021)</summary>
+>   <summary><strong>Game Developer Intern</strong> (September 2021 – November 2021)</summary><br>
 >   
 >   <ul>
 >     <li>Engineered a "Grass Cut" Play Store app replica in Unity, gaining proficiency in Model-View-Controller architecture</li>
