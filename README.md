@@ -9,7 +9,7 @@
 
 ## Education
 ### University of Southern California
-#### Master of Science in Computer Science - `CGPA: 4.0/4.0`
+#### Master of Science in Computer Science - `CGPA: 3.78/4.00`
 > 
 > **Relevant Coursework**: <br>
 > - Analysis of Algorithms
