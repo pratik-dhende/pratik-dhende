@@ -18,7 +18,7 @@
 > - Computer Graphics
 > - Multimedia Systems Design
 > - Computer Systems Architecture
-
+> - Computer Animation and Simulation
 
 
 ### Pimpri Chinchwad College of Engineering (Affiliated to Savitribai Phule Pune University)
