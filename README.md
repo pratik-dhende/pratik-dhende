@@ -8,7 +8,7 @@
   - Special mention award at a hackathon
 
 ## Education
-### University of Southern California
+### University of Southern California *(August 2023 - May 2025)*
 #### Master of Science in Computer Science - `CGPA: 3.78/4.00`
 > 
 > **Relevant Coursework**: <br>
@@ -19,10 +19,6 @@
 > - Multimedia Systems Design
 > - Computer Systems Architecture
 > - Computer Animation and Simulation
-
-
-### Pimpri Chinchwad College of Engineering (Affiliated to Savitribai Phule Pune University)
-#### Bachelor of Engineering in Computer Engineering - `CGPA: 9.44/10.0`
 
 ## Work Experience
 ### PubMatic
