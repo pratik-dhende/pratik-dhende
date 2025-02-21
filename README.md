@@ -103,14 +103,14 @@ Feel free to delve deeper into my journey, experiences, and everything I've ment
 ## Skills
 | Skill | Technologies |
 | -------- | -------- |
-| Graphics APIs | DirectX 11 • OpenGL |
-| Shader languages | GLSL • HLSL |
-| GPU Profilers | RenderDoc |
+| Graphics APIs | DirectX 12 • DirectX 11 • OpenGL |
+| Shader languages | HLSL • GLSL |
+| Graphics Debuggers | PIX • RenderDoc |
 | Game Engines | Unity |
 | Meta Build System | CMake • Premake|
-| Programming Languages | C++ • C# • Python • Objective-C • Swift • Javascript • HTML • CSS • Shell script|
+| Programming Languages | C++ • C • Python • Objective-C • C# • Swift • Javascript • HTML • CSS|
 | Frameworks/Libraries | Unity CLI • React • React Native • Flutter • fastlane • Jenkins |
-| IDEs | XCode • Visual Studio |
+| IDEs | Visual Studio 2022 • XCode |
 | Databases | SQL • MongoDB |
 
 ## Connect
