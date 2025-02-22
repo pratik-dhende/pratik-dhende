@@ -21,6 +21,26 @@
 > - Computer Animation and Simulation
 
 ## Work Experience
+### University of Southern California
+> <details>
+>   <summary><strong>Graduate Teaching Assistant (Course Producer for CSCI 522 - Game Engine Development)</strong> (January 2025 – Present)</summary><br>
+> 
+>   <ul>
+>     <li>Course Producer for CSCI 522 - Game Engine Development under Prof. Artem Kovalovs</li>
+>     <li>Assisting in grading assignments, exams, and projects for 35+ students</li>
+>   </ul>
+> </details>
+>
+> <details>
+>   <summary><strong>Graduate Assistant (Course Grader for CSCI 522 - Game Engine Development)</strong> (September 2024 – December 2024)</summary><br>
+> 
+>   <ul>
+>     <li>Course Grader for CSCI 522 - Game Engine Development under Prof. Artem Kovalovs</li>
+>     <li>Assisting in grading assignments, exams, and projects for 65+ students</li>
+>     <li>Hosting weekly office hours to help 65+ students understand course material</li>
+>   </ul>
+> </details>
+
 ### PubMatic
 
 > <details>
