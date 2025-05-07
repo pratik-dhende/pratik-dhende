@@ -85,6 +85,8 @@ Feel free to delve deeper into my journey, experiences, and everything I've ment
 - [Yume - DX12 Graphics Engine](https://github.com/pratik-dhende/Yume)
 
 ### Computer Graphics
+- CUDA
+  - [CUDA Accelerated Raytracer](https://github.com/pratik-dhende/Raytracer)
 - DirectX11
   - [Deferred Renderer](https://github.com/pratik-dhende/Prime-Engine-Deferred-Renderer)
   - [Isekai - DirectX11 Graphics Engine](https://github.com/pratik-dhende/Isekai)
@@ -119,7 +121,7 @@ Feel free to delve deeper into my journey, experiences, and everything I've ment
 ## Skills
 | Skill | Technologies |
 | -------- | -------- |
-| Graphics APIs | DirectX 12 • DirectX 11 • OpenGL |
+| Graphics APIs | DirectX 12 • CUDA • DirectX 11 • OpenGL |
 | Shader languages | HLSL • GLSL |
 | Graphics Debuggers | PIX • RenderDoc |
 | Game Engines | Unity |
