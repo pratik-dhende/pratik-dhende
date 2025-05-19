@@ -9,7 +9,7 @@
 
 ## Education
 ### University of Southern California *(August 2023 - May 2025)*
-#### Master of Science in Computer Science - `CGPA: 3.78/4.00`
+#### Master of Science in Computer Science - `CGPA: 3.81/4.00`
 > 
 > **Relevant Coursework**: <br>
 > - Analysis of Algorithms
