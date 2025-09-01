@@ -1,11 +1,6 @@
 # Portfolio
 
-- Currently pursuing a `Master's degree` with a `specialization in Computer Graphics`, with a `strong background in Software Engineering, Game Development, Artificial Intelligence and Data Structures and Algorithms`.
-
-- Notable achievements include:
-  - Publishing an [IEEE paper](https://ieeexplore.ieee.org/document/10010733) in the field of AI
-  - Second place in a district-level coding competition
-  - Special mention award at a hackathon
+I recently earned my `Master’s in Computer Science` from the `University of Southern California (May 2025)`, with a strong focus in `Computer Graphics`. I’m deeply passionate about building high-performance offline and real-time physically based rendering systems.
 
 ## Education
 ### University of Southern California *(August 2023 - May 2025)*
@@ -21,6 +16,16 @@
 > - Computer Animation and Simulation
 
 ## Work Experience
+### TikTok
+> <details>
+>   <summary><strong>Software Engineer - TikTok Effect Core SDK</strong> (January 2025 – Present)</summary><br>
+>   <ul>
+>     <li>Optimize mobile GPU graphics workloads by leveraging mobile GPU architecture knowledge to maximize efficiency</li>
+>     <li>Enhance engine-level C++ and rendering pipeline performance, improving frame rates</li>
+>     <li>Profile and analyze rendering using XCode and Metal developer tools, resolving bottlenecks</li>
+>   </ul>
+> </details>
+
 ### University of Southern California
 > <details>
 >   <summary><strong>Graduate Teaching Assistant (Course Producer for CSCI 522 - Game Engine Development)</strong> (January 2025 – Present)</summary><br>
