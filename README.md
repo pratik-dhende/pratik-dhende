@@ -1,6 +1,12 @@
 # Portfolio
 
-I recently earned my `Master’s in Computer Science` from the `University of Southern California (May 2025)`, with a strong focus in `Computer Graphics`. And I’m deeply passionate about building high-performance offline and real-time physically based rendering systems.
+I’m currently a Software Engineer at TikTok Effect Core SDK, where I primarily focus on performance and optimization of GPU and CPU workloads.
+ 
+I recently earned my Master’s in Computer Science from the University of Southern California (May 2025), with a strong focus in Computer Graphics. I’m deeply passionate about building high-performance physically based rendering systems.
+
+My hands-on experience spans DirectX 12, DirectX 11, and OpenGL, along with graphics debugging tools such as RenderDoc and PIX, through which I’ve built multiple rendering and engine projects. I also have a strong foundation in Software Engineering, Game Development, Artificial Intelligence, and Data Structures & Algorithms.
+
+Beyond the world of Computer Science, I also find inspiration in music and art.
 
 ## Education
 ### University of Southern California *(August 2023 - May 2025)*
