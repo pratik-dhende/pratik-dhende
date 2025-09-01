@@ -1,6 +1,6 @@
 # Portfolio
 
-I recently earned my `Master’s in Computer Science` from the `University of Southern California (May 2025)`, with a strong focus in `Computer Graphics`. I’m deeply passionate about building high-performance offline and real-time physically based rendering systems.
+I recently earned my `Master’s in Computer Science` from the `University of Southern California (May 2025)`, with a strong focus in `Computer Graphics`. And I’m deeply passionate about building high-performance offline and real-time physically based rendering systems.
 
 ## Education
 ### University of Southern California *(August 2023 - May 2025)*
