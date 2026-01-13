@@ -97,7 +97,7 @@ Feel free to delve deeper into my journey, experiences, and everything I've ment
 
 ### Computer Graphics
 - CUDA
-  - [CUDA Accelerated Raytracer](https://github.com/pratik-dhende/Raytracer)
+  - [Raytracer - CPU/GPU Exploration](https://github.com/pratik-dhende/Raytracer)
 - DirectX11
   - [Deferred Renderer](https://github.com/pratik-dhende/Prime-Engine-Deferred-Renderer)
   - [Isekai - DirectX11 Graphics Engine](https://github.com/pratik-dhende/Isekai)
