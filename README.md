@@ -21,8 +21,6 @@ Feel free to delve deeper into my journey, experiences, and everything I've ment
   - [Deferred Renderer](https://github.com/pratik-dhende/Prime-Engine-Deferred-Renderer)
   - [Isekai - DirectX11 Graphics Engine](https://github.com/pratik-dhende/Isekai)
   - [Real-Time Procedural Terrain Rendering using Ray Marching](https://github.com/pratik-dhende/Real-Time-Procedural-Terrain-Rendering-using-Ray-Marching)
-- CPU
-  - [Monte-Carlo sampling based BRDF CPU Ray Tracer](https://github.com/pratik-dhende/Ray-Tracer)
 - OpenGL Core Profile
   - [Roller Coaster Simulation - OpenGL](https://github.com/pratik-dhende/Roller-Coaster)
   - [Height Fields - OpenGL](https://github.com/pratik-dhende/Height-Fields)
